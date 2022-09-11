@@ -1,0 +1,2 @@
+# node_class
+npm_module_class_practice
